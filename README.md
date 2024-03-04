@@ -9,6 +9,8 @@
 
 ### Questions
 
+- Answer is in the `quries-with-ans.text` folder.
+
 - Collection Name : **products**.
 
 - 1.Find all the information about each products
